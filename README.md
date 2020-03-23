@@ -16,8 +16,14 @@ npm run start
 
 ## Preview
 
+### Home
+
 ![](Screenshot.png)
 
+###  Page Error 404
+
 ![](Screenshot-404.png)
+
+### Page Responsive
 
 ![](Screenshot-responsive.png)
