@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  height: auto;
+  padding: 1%;
+  background: #DA4A74;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.header__nav {
+  padding-bottom: 10px;
+}
+.header__nav ul {
+  padding: 0;
+  display: flex;
+  justify-content: left;
+}
+.header__nav li {
+  margin: 0 2em;
+  list-style: none;
+  text-align: center;
+}
+.header__nav li:hover a {
+  border-bottom: 3px solid #ffffff;
+  padding-bottom: 10px;
+}
+.header__nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.header__user {
+  text-align: right;
+  padding-right: 5%;
+  color: #ffffff;
+}
